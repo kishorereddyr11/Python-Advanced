@@ -1,0 +1,5 @@
+Hello 
+This file a assignment to conunt
+Number of line in this file
+Numbers of words in this file
+Number of characters in this file
